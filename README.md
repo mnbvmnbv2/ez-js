@@ -6,9 +6,9 @@ Copy and modify
 
 ## Table of contents
 
-- [Installations](##Installations)
-- [Setup](##Setup)
-- [Commenting](##Commenting)
+- [Installations](##-Installations)
+- [Setup](##-Setup)
+- [Commenting](##-Commenting)
 
 ## Installations
 (IDE etc.)
@@ -49,9 +49,9 @@ For commenting on a single line:
 `//`
 
 Example:
-
-    // hello
-
+```javascript
+// hello
+```
 For commenting on multiple lines:
 
 Start with:
@@ -64,8 +64,9 @@ End with:
 
 Example:
 
-    javascript
-    /* asf
-    hello
-    world
-    */
+```js
+/* asf
+hello
+world
+*/
+```
