@@ -23,18 +23,20 @@ In VSCode, you can just write `!` and it will autofill the setup for a html file
 
 If you don't use VSCode or it does not work, you can copy this:
 
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Document</title>
-    </head>
-    <body>
-        
-    </body>
-    </html>
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+```
 
 ### Create javascript file
 
@@ -62,6 +64,7 @@ End with:
 
 Example:
 
+    javascript
     /* asf
     hello
     world
