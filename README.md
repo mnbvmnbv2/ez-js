@@ -6,9 +6,9 @@ Copy and modify
 
 ## Table of contents
 
-- [Installations](##-Installations)
-- [Setup](##-Setup)
-- [Commenting](##-Commenting)
+- [Installations](#installations)
+- [Setup](#setup)
+- [Commenting](#commenting)
 
 ## Installations
 (IDE etc.)
