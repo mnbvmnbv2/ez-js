@@ -9,6 +9,7 @@ Copy and modify
 - [Installations](#installations)
 - [Setup](#setup)
 - [Commenting](#commenting)
+- [Variables](#variables)
 
 ## Installations
 (IDE etc.)
@@ -69,4 +70,41 @@ Example:
 hello
 world
 */
+```
+
+## Variables
+
+Create variable with `var` or `let` and the name of the variable.
+
+```js
+var a = 1;
+```
+
+Call upon the variable by just using its name.
+
+```js
+a
+>>> 1 
+```
+
+Change the value of the variable by calling upon it and appointing it a new value with `=`
+
+```js
+a = 2;
+```
+
+Create constant with `const`:
+
+```js
+const pi = 3.14;
+```
+
+Some types: `number`, `string` and `bolean`:
+
+```js
+let numb = 0;
+
+let str = 'abc';
+
+let bool = false;
 ```
