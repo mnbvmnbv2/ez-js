@@ -16,6 +16,8 @@ Copy and modify
 
 Examples: VSCode, Notepad++ or regular notepad
 
+Web browser like Google Chrome or Mozilla Firefox
+
 ## Setup
 
 ### Create HTML file
@@ -42,6 +44,18 @@ If you don't use VSCode or it does not work, you can copy this:
 ### Create javascript file
 
 You can create a javascript file in many ways. You can for example create any type of file in your folder/working directory and end it with .js. This can easily be done in VSCode where you can clearly see the file extention (what the file ends with after .).
+
+### Link javascript file
+
+```html
+<body>
+   <script src="filename.js"> 
+</body>
+```
+
+### View your code
+
+Open the console by either pressing **f12** while in the browser or opening though right-clicking and choosing "show console".
 
 ## Commenting
 
