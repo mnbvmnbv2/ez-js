@@ -41,7 +41,7 @@ z.splice(1, 1);
 z.splice(1, 1, 'Per', 69);
 
 //CONSOLE
-console.log('Heil');
+console.log('Hei');
 
 //TESTER
 if (5 == 5) {
@@ -55,7 +55,7 @@ if (5 == '5') {
 }
 
 if (false) {
-	console.log('fuck');
+	console.log('ouf');
 } else {
 	console.log('jasså');
 }
