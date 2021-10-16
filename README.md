@@ -122,3 +122,13 @@ let str = 'abc';
 
 let bool = false;
 ```
+
+## Arrays
+
+Arrays are a list of elements. These elements can be any of any type and can be mixed in the array. Arrays can be created to have a fixed lenth or an dynamic length.
+
+A fixed length array is created with const.
+
+```js
+const b = ['a', 'hei', 'c', 'def'];
+```
