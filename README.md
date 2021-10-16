@@ -10,6 +10,7 @@ Copy and modify
 - [Setup](#setup)
 - [Commenting](#commenting)
 - [Variables](#variables)
+- [Arrays](#arrays)
 
 ## Installations
 (IDE etc.)
@@ -127,8 +128,14 @@ let bool = false;
 
 Arrays are a list of elements. These elements can be any of any type and can be mixed in the array. Arrays can be created to have a fixed lenth or an dynamic length.
 
-A fixed length array is created with const.
+A fixed length array is created with `const`.
 
 ```js
-const b = ['a', 'hei', 'c', 'def'];
+const b = ['a', 'hey', 2, '🎁'];
+```
+
+A dynamic array is created with `var` or `let`.
+
+```js
+let c = [2, 3];
 ```
